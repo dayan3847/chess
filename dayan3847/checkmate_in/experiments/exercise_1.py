@@ -7,7 +7,7 @@ if __name__ == "__main__":
     fen = "5B2/6P1/1p6/8/1N6/kP6/2K5/8 w - - 0 1"
     board = chess.Board(fen)
     svg = chess.svg.board(board=board)
-    with open("exercise_1.svg", "w") as f:
+    with open("../img/exercise_1.svg", "w") as f:
         f.write(svg)
 
     # Muestra el gráfico SVG en la salida

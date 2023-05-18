@@ -4,7 +4,7 @@
 
 White to move and mate in 3.
 
-<img src="./checkmate_in/exercise_1.svg" alt="" width="50%" height="50%" />
+<img src="./dayan3847_checkmate_in/exercise_1.svg" alt="" width="50%" height="50%" />
 
 ### fen
 

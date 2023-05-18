@@ -1,7 +1,6 @@
-import chess
 import chess.svg
 
-from checkmate_in.CheckmateIn import CheckmateIn
+from dayan3847.checkmate_in.src.CheckmateIn import CheckmateIn
 
 if __name__ == "__main__":
     print("Chessmate in 3 moves?")
